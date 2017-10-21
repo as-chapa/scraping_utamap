@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 BASE_URL = 'https://www.uta-net.com/artist/7429/'
 OUT_FILE_NAME = "output.csv"
 
